@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs>
+<linearGradient id="body" x1="0" x2="1"><stop stop-color="#e0ddd6"/><stop offset=".35" stop-color="#77736d"/><stop offset=".7" stop-color="#2a2927"/><stop offset="1" stop-color="#b9b5ad"/></linearGradient>
+<linearGradient id="glass"><stop stop-color="#111"/><stop offset=".5" stop-color="#444"/><stop offset="1" stop-color="#050505"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="#0a0a0a"/>
+<ellipse cx="605" cy="670" rx="510" ry="45" fill="#000" opacity=".8"/>
+<path d="M95 566c66-65 142-92 250-105l148-172c58-67 151-97 276-86l185 15c70 6 109 34 155 88l70 83c25 29 38 60 38 98v78H93Z" fill="url(#body)" stroke="#ddd9d1" stroke-opacity=".35" stroke-width="4"/>
+<path d="M494 292l105-65c42-26 99-38 158-33l130 10c39 3 67 14 96 42l54 55-543-9Z" fill="url(#glass)"/>
+<path d="M115 555h945" stroke="#111" stroke-width="18"/>
+<circle cx="340" cy="587" r="92" fill="#111"/><circle cx="340" cy="587" r="55" fill="#444"/><circle cx="340" cy="587" r="24" fill="#0a0a0a"/>
+<circle cx="887" cy="587" r="92" fill="#111"/><circle cx="887" cy="587" r="55" fill="#444"/><circle cx="887" cy="587" r="24" fill="#0a0a0a"/>
+<path d="M690 463h240" stroke="#eee" stroke-opacity=".35" stroke-width="8"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+<defs>
+  <radialGradient id="g" cx="45%" cy="35%" r="70%"><stop offset="0" stop-color="#bdb9b0"/><stop offset=".55" stop-color="#6f6b65"/><stop offset="1" stop-color="#171717"/></radialGradient>
+  <filter id="grain"><feTurbulence baseFrequency=".8" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 0.45 0 0 0 0 0.43 0 0 0 0 0.40 0 0 0 .16 0"/></filter>
+</defs>
+<rect width="1200" height="1500" fill="#090909"/>
+<path d="M620 90c230 20 370 180 350 390-16 170-108 238-82 430 24 174-65 399-278 490-155 66-354-7-386-184-33-182 105-267 79-421-34-202 19-390 126-541C492 137 549 83 620 90Z" fill="url(#g)"/>
+<path d="M450 530c75-66 115-137 154-220m-115 450c98-52 188-111 260-205m-303 421c108-28 208-79 307-157" fill="none" stroke="#d5d0c8" stroke-opacity=".28" stroke-width="26"/>
+<ellipse cx="566" cy="440" rx="63" ry="88" fill="#090909"/>
+<ellipse cx="735" cy="430" rx="58" ry="80" fill="#090909"/>
+<path d="M605 640c64 36 123 36 184 0" fill="none" stroke="#111" stroke-width="26"/>
+<rect width="1200" height="1500" filter="url(#grain)" opacity=".35"/>
+</svg>
