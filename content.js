@@ -92,7 +92,7 @@ const PROJECTS = [
     shortTitle: "VEHICLE CONCEPT",
     category: "SURFACE DESIGN",
     description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
-    image: "02_vehicle_design.jpg",
+    image: "02_vehicle_design_2.jpg",
     gallery: ["vehicle.svg", "vehicle.svg", "vehicle.svg"],
     tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
   },
