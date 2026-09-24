@@ -81,8 +81,8 @@ const PROJECTS = [
     shortTitle: "ANATOMY",
     category: "ANATOMY STUDY",
     description: "Heads, busts and anatomical studies exploring proportion, structure and surface.",
-    image: "01_human_anatomy_2.jpg",
-    gallery: ["anatomy.svg", "body.svg"],
+    image: "01_human_anatomy.jpg",
+    gallery: ["01_human_anatomy_2.jpg", "body.svg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
   },
 
