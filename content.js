@@ -81,7 +81,7 @@ const PROJECTS = [
     shortTitle: "ANATOMY",
     category: "ANATOMY STUDY",
     description: "Heads, busts and anatomical studies exploring proportion, structure and surface.",
-    image: "anatomy.svg",
+    image: "01_human_anatomy.jpg",
     gallery: ["anatomy.svg", "body.svg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
   },
@@ -92,7 +92,7 @@ const PROJECTS = [
     shortTitle: "VEHICLE CONCEPT",
     category: "SURFACE DESIGN",
     description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
-    image: "vehicle.svg",
+    image: "02_vehicle_design.jpg",
     gallery: ["vehicle.svg", "vehicle.svg", "vehicle.svg"],
     tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
   },
@@ -103,7 +103,7 @@ const PROJECTS = [
     shortTitle: "CREATURE",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
-    image: "creature.svg",
+    image: "03_creature_design.jpg",
     gallery: ["creature.svg", "creature.svg"],
     tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
   }
