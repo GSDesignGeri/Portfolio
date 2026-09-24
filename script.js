@@ -13,6 +13,7 @@ function setHTML(id, value) {
 }
 
 function renderSite() {
+  document.getElementById("hero-image").src = asset(PROJECTS[0].image);
   document.title = `${SITE.name} — ${SITE.tagline}`;
   document.getElementById("meta-description").content =
     `${SITE.name} — 3D sculpt and surface design for anatomy, creatures and vehicles.`;
