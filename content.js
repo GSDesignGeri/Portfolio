@@ -103,7 +103,7 @@ const PROJECTS = [
     shortTitle: "PRODUCT",
     category: "INDUSTRIAL DESIGN",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
-    image: "03_creature_design.jpg",
+    image: "03_product_design_01.jpg",
     gallery: ["creature.svg", "creature.svg"],
     tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
   }
