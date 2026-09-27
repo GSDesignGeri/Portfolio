@@ -80,7 +80,7 @@ const PROJECTS = [
     title: "DIGITAL SCULPTING",
     shortTitle: "SCULPTING",
     category: "ORGANIC FORM",
-    description: "Heads, busts and anatomical studies exploring proportion, structure and surface.",
+    description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
     image: "01_human_anatomy.jpg",
     gallery: ["01_human_anatomy_2.jpg", "body.svg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
@@ -102,7 +102,7 @@ const PROJECTS = [
     title: "PRODUCT DESIGN",
     shortTitle: "PRODUCT",
     category: "INDUSTRIAL DESIGN",
-    description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
+    description: "Exploration of form, function and material to create refined products where aesthetics, ergonomics and purpose come together.",
     image: "03_product_design_01.jpg",
     gallery: ["creature.svg", "creature.svg"],
     tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
