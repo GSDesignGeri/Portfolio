@@ -24,7 +24,7 @@ const SITE = {
     title: ["SCULPT", "FORM", "SURFACES", "IDEAS"],
     description: [
       "3D SCULPT & SURFACE DESIGN",
-      "FOR CHARACTERS, CREATURES",
+      "FOR PRODUCTS, CHARACTERS",
       "AND VEHICLES."
     ]
   },
@@ -32,7 +32,7 @@ const SITE = {
   about: {
     title: ["SCULPT", "DESIGN", "EXPLORE"],
     paragraphs: [
-      "I’m a 3D sculpt and surface designer working on anatomical studies, creatures and vehicles. My work explores form, proportion and materiality, from organic anatomy to high-end automotive surfaces.",
+      "I’m a 3D sculpt and surface designer working on anatomical studies, characters and vehicles. My work explores form, proportion and materiality, from organic anatomy to high-end automotive surfaces.",
       "I’m interested in the balance between the natural and the engineered — how organic forms, mechanical logic and material behaviour can inspire each other."
     ]
   },
@@ -41,8 +41,8 @@ const SITE = {
     "3D Sculpting",
     "Surface Design",
     "Concept Development",
-    "Anatomy Studies",
-    "Creature Design",
+    "PrOduct Design",
+    "Character Design",
     "Vehicle Design",
     "Visualisation & Art Direction"
   ],
