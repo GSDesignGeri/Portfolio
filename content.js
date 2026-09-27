@@ -93,7 +93,7 @@ const PROJECTS = [
     category: "SURFACE DESIGN",
     description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
     image: "02_vehicle_design_3.jpg",
-    gallery: ["vehicle.svg", "vehicle.svg", "vehicle.svg"],
+    gallery: ["SW_Concept_01.jpg", "02_vehicle_design_4", "vehicle.svg"],
     tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
   },
 
@@ -104,7 +104,7 @@ const PROJECTS = [
     category: "INDUSTRIAL DESIGN",
     description: "Exploration of form, function and material to create refined products where aesthetics, ergonomics and purpose come together.",
     image: "03_product_design_01.jpg",
-    gallery: ["creature.svg", "creature.svg"],
+    gallery: ["02_vehicle_sketch.jpg", "creature.svg"],
     tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
   }
 ];
