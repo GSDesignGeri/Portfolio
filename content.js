@@ -41,7 +41,7 @@ const SITE = {
     "3D Sculpting",
     "Surface Design",
     "Concept Development",
-    "PrOduct Design",
+    "Product Design",
     "Character Design",
     "Vehicle Design",
     "Visualisation & Art Direction"
