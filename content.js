@@ -48,7 +48,7 @@ const SITE = {
   ],
 
   contact: {
-    email: "hello@yourdomain.com",
+    email: "info@gsdesign.at",
     instagram: "#",
     behance: "#",
     linkedin: "#"
@@ -77,9 +77,9 @@ const SITE = {
 const PROJECTS = [
   {
     number: "01",
-    title: "HUMAN ANATOMY",
-    shortTitle: "ANATOMY",
-    category: "ANATOMY STUDY",
+    title: "DIGITAL SCULPTING",
+    shortTitle: "SCULPTING",
+    category: "ORGANIC FORM",
     description: "Heads, busts and anatomical studies exploring proportion, structure and surface.",
     image: "01_human_anatomy.jpg",
     gallery: ["01_human_anatomy_2.jpg", "body.svg"],
@@ -99,9 +99,9 @@ const PROJECTS = [
 
   {
     number: "03",
-    title: "CREATURE DESIGN",
-    shortTitle: "CREATURE",
-    category: "ORGANIC FORM",
+    title: "PRODUCT DESIGN",
+    shortTitle: "PRODUCT",
+    category: "INDUSTRIAL DESIGN",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
     image: "03_creature_design.jpg",
     gallery: ["creature.svg", "creature.svg"],
