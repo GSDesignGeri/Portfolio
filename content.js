@@ -77,7 +77,7 @@ const SITE = {
 const PROJECTS = [
   {
     number: "01",
-    title: "DIGITAL SCULPTING",
+    title: "CAD SURFACING",
     shortTitle: "CAD SURFACING",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
