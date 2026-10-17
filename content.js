@@ -81,7 +81,7 @@ const PROJECTS = [
     shortTitle: "SCULPTING",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
-    image: "01_human_anatomy.jpg",
+    image: "Mower_01.jpg",
     gallery: ["01_human_anatomy_2.jpg", "st_wheel_front_01.jpg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
   },
