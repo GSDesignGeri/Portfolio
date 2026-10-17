@@ -78,7 +78,7 @@ const PROJECTS = [
   {
     number: "01",
     title: "DIGITAL SCULPTING",
-    shortTitle: "SCULPTING",
+    shortTitle: "CAD SURFACING",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
     image: "Mower_01.jpg",
