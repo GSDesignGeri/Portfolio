@@ -33,7 +33,7 @@ const SITE = {
     title: ["SCULPT", "DESIGN", "EXPLORE"],
     paragraphs: [
       "I’m a 3D sculpt and surface designer working on anatomical studies, characters and vehicles. My work explores form, proportion and materiality, from organic anatomy to high-end automotive surfaces.",
-      "I’m interested in the balance between the natural and the engineered — how organic forms, mechanical logic and material behaviour can inspire each other."
+      "I’m interested in the balance between the natural and the engineered, how organic forms, mechanical logic and material behaviour can inspire each other."
     ]
   },
 
