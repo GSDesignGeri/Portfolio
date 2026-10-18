@@ -79,8 +79,8 @@ const PROJECTS = [
     number: "01",
     title: "CAD SURFACING",
     shortTitle: "CAD SURFACING",
-    category: "ORGANIC FORM",
-    description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
+    category: "SURFACE DESIGN",
+    description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
     image: "Mower_01.jpg",
     gallery: ["01_human_anatomy_2.jpg", "st_wheel_front_01.jpg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
@@ -88,10 +88,10 @@ const PROJECTS = [
 
   {
     number: "02",
-    title: "VEHICLE DESIGN",
-    shortTitle: "VEHICLE CONCEPT",
-    category: "SURFACE DESIGN",
-    description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
+    title: "DIFITAL SCULTPING",
+    shortTitle: "SCULPTING",
+    category: "ORGANIC FORM",
+    description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
     image: "02_vehicle_design_3.jpg",
     gallery: ["SW_Concept_01.jpg", "02_vehicle_design_4", "vehicle.svg"],
     tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
