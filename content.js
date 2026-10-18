@@ -88,7 +88,7 @@ const PROJECTS = [
 
   {
     number: "02",
-    title: "DIFITAL SCULTPING",
+    title: "DIGITAL SCULTPING",
     shortTitle: "SCULPTING",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
