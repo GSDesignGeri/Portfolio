@@ -20,7 +20,7 @@ const SITE = {
   tagline: "SCULPT / FORM / SURFACE",
 
   hero: {
-    eyebrow: ["ANATOMY", "CREATURES", "VEHICLES", "SURFACE DESIGN"],
+    eyebrow: ["ANATOMY", "CHARACTERS", "VEHICLES", "SURFACE DESIGN"],
     title: ["SCULPT", "FORM", "SURFACES", "IDEAS"],
     description: [
       "3D SCULPT & SURFACE DESIGN",
