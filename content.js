@@ -92,7 +92,7 @@ const PROJECTS = [
     shortTitle: "SCULPTING",
     category: "ORGANIC FORM",
     description: "Organic forms, creatures and sculptural explorations inspired by anatomy and nature.",
-    image: "02_vehicle_design_3.jpg",
+    image: "01_human_anatomy.jpg",
     gallery: ["SW_Concept_01.jpg", "02_vehicle_design_4", "vehicle.svg"],
     tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
   },
