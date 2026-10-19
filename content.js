@@ -92,8 +92,8 @@ const PROJECTS = [
     shortTitle: "VEHICLE DESIGN",
     category: "VEHICLE DESIGN",
     description: "Exterior design and CAD surfacing of a Crosskart, shaping its distinctive bodywork and refining the surfaces around its lightweight chassis.",
-    image: "02_vehicle_design.jpg",
-    gallery: ["02_vehicle_design_2.jpg", "02_vehicle_design_3.jpg", "02_vehicle_design_4.jpg"],
+    image: "Vehicle_01.jpg",
+    gallery: ["Vehicle_02.jpg", "Vehicle_03.jpg"],
     tags: ["EXTERIOR DESIGN", "CAD SURFACING", "CROSSKART"]
   },
 
