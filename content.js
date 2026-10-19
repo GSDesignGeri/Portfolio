@@ -88,6 +88,17 @@ const PROJECTS = [
 
   {
     number: "02",
+    title: "VEHICLE DESIGN",
+    shortTitle: "VEHICLE DESIGN",
+    category: "VEHICLE DESIGN",
+    description: "Exterior design and CAD surfacing of a Crosskart, shaping its distinctive bodywork and refining the surfaces around its lightweight chassis.",
+    image: "02_vehicle_design.jpg",
+    gallery: ["02_vehicle_design_2.jpg", "02_vehicle_design_3.jpg", "02_vehicle_design_4.jpg"],
+    tags: ["EXTERIOR DESIGN", "CAD SURFACING", "CROSSKART"]
+  },
+
+  {
+    number: "03",
     title: "DIGITAL SCULTPING",
     shortTitle: "SCULPTING",
     category: "ORGANIC FORM",
@@ -98,7 +109,7 @@ const PROJECTS = [
   },
 
   {
-    number: "03",
+    number: "04",
     title: "PRODUCT DESIGN",
     shortTitle: "PRODUCT",
     category: "INDUSTRIAL DESIGN",
