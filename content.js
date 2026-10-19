@@ -82,7 +82,7 @@ const PROJECTS = [
     category: "SURFACE DESIGN",
     description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
     image: "Mower_01.jpg",
-    gallery: ["01_human_anatomy_2.jpg", "st_wheel_front_01.jpg"],
+    gallery: ["mower_illustration_06.jpg", "st_wheel_front_01.jpg"],
     tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
   },
 
