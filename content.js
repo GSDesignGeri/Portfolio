@@ -104,7 +104,7 @@ const PROJECTS = [
     category: "INDUSTRIAL DESIGN",
     description: "Exploration of form, function and material to create refined products where aesthetics, ergonomics and purpose come together.",
     image: "03_product_design_01.jpg",
-    gallery: ["02_vehicle_sketch.jpg", "creature.svg"],
+    gallery: ["02_vehicle_sketch.jpg", "SW_Concept_01.jpg"],
     tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
   }
 ];
