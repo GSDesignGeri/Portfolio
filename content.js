@@ -100,7 +100,7 @@ const PROJECTS = [
   {
     number: "03",
     title: "PRODUCT DESIGN",
-    shortTitle: "PRODUCT",
+    shortTitle: "PRODUCT DESIGN",
     category: "INDUSTRIAL DESIGN",
     description: "Exploration of form, function and material to create refined products where aesthetics, ergonomics and purpose come together.",
     image: "03_product_design_01.jpg",
