@@ -66,7 +66,7 @@ function showProject(index) {
 
   setText("case-number", project.number);
   setText("case-title", project.shortTitle);
-  setHTML("case-tags", project.tags.map(tag => `<b>${tag}</b>`).join("<br>"));
+  setHTML("case-tags", [project.category, ...project.tags].map(tag => `<b>${tag}</b>`).join("<br>"));
   setText("case-description", project.description);
 
   const hero = document.getElementById("case-hero");
