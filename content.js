@@ -58,34 +58,34 @@ const SITE = {
 const PROJECTS = [
   {
     number: "01",
-    title: "CAR SCULPT",
-    shortTitle: "CAR SCULPT",
-    category: "VEHICLE DESIGN",
-    description: "Vehicle form development exploring proportion, surfacing and sculptural character.",
-    image: "Car_Sculpt_01_b.jpg",
-    gallery: [],
-    tags: ["VEHICLE DESIGN", "3D SCULPTING", "SURFACE DESIGN"]
+    title: "CAD SURFACING",
+    shortTitle: "CAD SURFACING",
+    category: "SURFACE DESIGN",
+    description: "Exploration of aerodynamic forms, surface tension and functional aesthetics.",
+    image: "Mower_01.jpg",
+    gallery: ["mower_illustration_06.jpg", "st_wheel_front_01.jpg"],
+    tags: ["3D SCULPTING", "ANATOMY STUDY", "CONCEPT DEVELOPMENT"]
   },
 
   {
     number: "02",
-    title: "CROSSKART",
-    shortTitle: "CROSSKART",
-    category: "VEHICLE DESIGN",
-    description: "A compact off-road vehicle study exploring aggressive proportions, structure and functional form.",
-    image: "Crosskart_01.jpg",
-    gallery: ["Crosskart_02.jpg"],
-    tags: ["VEHICLE DESIGN", "CONCEPT DEVELOPMENT", "SURFACE DESIGN"]
+    title: "DIGITAL SCULTPING",
+    shortTitle: "SCULPTING",
+    category: "ORGANIC FORM",
+    description: "Organic forms, characters and sculptural explorations inspired by anatomy and nature.",
+    image: "01_human_anatomy.jpg",
+    gallery: ["sculpt_orc_head_01.jpg", "Dog2.jpg"],
+    tags: ["SURFACE DESIGN", "3D SCULPTING", "CONCEPT DEVELOPMENT", "VISUALISATION"]
   },
 
   {
     number: "03",
-    title: "RC VEHICLE DESIGN",
-    shortTitle: "RC VEHICLE DESIGN",
-    category: "PRODUCT DESIGN",
-    description: "Exploration of a compact radio-controlled vehicle concept combining functional engineering with bold surface language.",
-    image: "RC_Box_Cover_02.jpg",
-    gallery: [],
-    tags: ["PRODUCT DESIGN", "VEHICLE DESIGN", "CONCEPT DEVELOPMENT"]
+    title: "PRODUCT DESIGN",
+    shortTitle: "PRODUCT DESIGN",
+    category: "INDUSTRIAL DESIGN",
+    description: "Exploration of form, function and material to create refined products where aesthetics, ergonomics and purpose come together.",
+    image: "03_product_design_01.jpg",
+    gallery: ["02_vehicle_sketch.jpg", "SW_Concept_01.jpg"],
+    tags: ["CREATURE DESIGN", "ORGANIC FORMS", "CONCEPT EXPLORATION"]
   }
 ];
