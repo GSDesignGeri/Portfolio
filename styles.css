@@ -55,10 +55,11 @@
 
 .mosaic-gallery-bottom {
   grid-column: 1 / -1;
+  width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 10px;
-  height: clamp(168px, 19.2vw, 420px);
+  height: clamp(280px, 32vw, 560px);
 }
 
 .mosaic-gallery-bottom a {
@@ -73,7 +74,7 @@
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center;
   transition: transform 0.6s cubic-bezier(.2,.7,.2,1);
 }
@@ -90,6 +91,15 @@
     grid-template-columns: 1fr;
     grid-template-rows: none;
     gap: 6px;
+  }
+
+  .mosaic-gallery-bottom {
+    grid-template-columns: 1fr 1fr;
+    height: auto;
+  }
+
+  .mosaic-gallery-bottom a {
+    aspect-ratio: 3 / 4;
   }
 
   .mosaic-gallery a {
